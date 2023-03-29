@@ -1,7 +1,8 @@
 body {
-    background: url(bar.webp);
+    background: url(aig-ai221017132-xl.jpg);
     color: white;
     padding: 2rem;
+    font-family: serif;
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -16,14 +17,12 @@ h1 {
     font-weight: bold;
     font-size: 1.9rem;
     line-height: 3.1rem;
-    font-family: "ヒラギノ角ゴ ProN W3", HiraKakuProN-W3, 游ゴシック, "Yu Gothic", sans-serif;
 }
 
 p {
     font-size: 1rem;
     line-height: 3rem;
     margin-top: 3rem;
-    font-family: "ヒラギノ明朝 ProN W3", HiraMinProN-W3, 游明朝, YuMincho, sans-serif;
 }
 
 .last {
