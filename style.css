@@ -1,0 +1,40 @@
+body {
+    background: url(bar.jpeg);
+    color: white;
+    padding: 2rem;
+    font-family: serif;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: white;
+}
+
+h1 {
+    padding: 0.5rem 0rem;
+    margin-bottom: 0.2rem;
+    border-bottom: 0.1875rem solid white;
+    font-weight: bold;
+    font-size: 1.9rem;
+    line-height: 3.1rem;
+}
+
+p {
+    font-size: 1rem;
+    line-height: 3rem;
+    margin-top: 3rem;
+}
+
+.last {
+    font-size: 0.8rem;
+    margin-top: 4rem;
+    position: absolute;
+}
+
+a {
+    color: white;   
+}
+
+a:hover {
+    color: silver;
+}
