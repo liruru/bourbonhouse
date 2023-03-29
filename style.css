@@ -20,13 +20,13 @@ h1 {
 }
 
 p {
-    font-size: 1rem;
-    line-height: 3rem;
-    margin-top: 3rem;
+    font-size: 0.9rem;
+    line-height: 2.8rem;
+    margin-top: 2.8rem;
 }
 
 .last {
-    font-size: 0.8rem;
+    font-size: 0.7rem;
     margin-top: 4rem;
     position: absolute;
 }
